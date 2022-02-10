@@ -1,4 +1,4 @@
-const base_url = "http://localhost:3000"
+const base_url = "https://api.anflopezoc.ga/"
 
 var form = document.getElementById('login_form');
 form.addEventListener('submit', login_event);
